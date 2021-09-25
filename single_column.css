@@ -56,6 +56,10 @@
   margin-top: 10vh;
 }
 
+.margin-right-xs {
+  margin-right: 1vw;
+}
+
 .sub-heading {
   padding: 3vh 0;
 }
@@ -117,8 +121,16 @@
   width: 33%;
 }
 
+.half {
+  width: 50%;
+}
+
 .sixty-six {
   width: 66%;
+}
+
+.seventy-five {
+  width: 75%;
 }
 
 .ninety {
@@ -140,4 +152,8 @@
 .avatar {
   height: 4vh;
   border: 1px solid black;
+}
+
+.img-main {
+  width: 75%;
 }
