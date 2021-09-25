@@ -92,6 +92,10 @@
   border: 1px solid black;
 }
 
+.logo:hover {
+  cursor: pointer;
+}
+
 .img {
   height: 100%;
   width: 100%;
