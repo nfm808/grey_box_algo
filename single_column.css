@@ -40,6 +40,10 @@
   padding: 5vh 0;
 }
 
+.margin-top-xs {
+  margin-top: 1vh;
+}
+
 .margin-top-small {
   margin-top: 2vh;
 }
@@ -88,7 +92,7 @@
   border: 1px solid black;
 }
 
-.logo img {
+.img {
   height: 100%;
   width: 100%;
 }
